@@ -1,0 +1,10 @@
+E:\21.11.4341\Responsi\Responsi\Responsi\bin\Debug\Responsi.exe.config
+E:\21.11.4341\Responsi\Responsi\Responsi\bin\Debug\Responsi.exe
+E:\21.11.4341\Responsi\Responsi\Responsi\bin\Debug\Responsi.pdb
+E:\21.11.4341\Responsi\Responsi\Responsi\obj\Debug\Responsi_21.11.4341.csprojAssemblyReference.cache
+E:\21.11.4341\Responsi\Responsi\Responsi\obj\Debug\Responsi.Form1.resources
+E:\21.11.4341\Responsi\Responsi\Responsi\obj\Debug\Responsi.Properties.Resources.resources
+E:\21.11.4341\Responsi\Responsi\Responsi\obj\Debug\Responsi_21.11.4341.csproj.GenerateResource.cache
+E:\21.11.4341\Responsi\Responsi\Responsi\obj\Debug\Responsi_21.11.4341.csproj.CoreCompileInputs.cache
+E:\21.11.4341\Responsi\Responsi\Responsi\obj\Debug\Responsi.exe
+E:\21.11.4341\Responsi\Responsi\Responsi\obj\Debug\Responsi.pdb
